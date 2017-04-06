@@ -200,7 +200,7 @@
   <string name="holo_orange_dark">Arancione scuro</string>
   <string name="holo_blue_bright">Azzurro luminoso</string>
   <!-- Weather icon sets -->
-  <string name="weather_icon_set_title">Set icone</string>
+  <string name="weather_icon_set_title">Imposta icone</string>
   <string name="weather_icons_standard">Colorate</string>
   <string name="weather_icons_monochrome">Monocromatiche</string>
   <string name="icon_set_selection_get_more">Altre\u2026</string>
